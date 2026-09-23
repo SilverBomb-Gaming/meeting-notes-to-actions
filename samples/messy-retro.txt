@@ -1,0 +1,16 @@
+retro 3/11 kinda messy notes from the whiteboard
+
+we talked about the deploy that failed last tuesday. nobody wrote down a date to retry.
+the dashboard graphs are still confusing. someone should clean up the labels but we didn't assign it.
+
+Jordan said the error budget looks fine. not an action.
+
+TODO: capture the incident timeline from the slack thread
+Action: ask the vendor about the timeout. no owner in the room.
+
+question: do we even need the legacy webhook?
+
+we agreed the retro stays 25 minutes.
+
+random: pizza was late. not a task.
+maybe we should rewrite the whole platform someday? not decided.
