@@ -22,7 +22,7 @@ I wanted a checklist I could check against the notes without sending them to a h
 
 ## Demo
 
-You will need Python 3.11+. Ollama is only required for the last command.
+For a proper demo, You will need Python 3.11+. Ollama is only required for the last command.
 
 ```bash
 python3 -m venv .venv
