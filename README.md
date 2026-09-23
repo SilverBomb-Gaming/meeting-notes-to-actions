@@ -10,8 +10,6 @@ Built by Alfredo Cardona ([SilverBomb-Gaming](https://github.com/SilverBomb-Gami
 
 ## In the owner's words
 
-<!-- Replace this paragraph after merge. It is the one spot left for a human voice. -->
-
 I wanted a checklist I could check against the notes without sending them to a hosted model. `--no-llm` only catches lines that are already marked as work, so a messy page of prose stays thin until the Ollama pass, and that pass still has to quote the notes or the program drops the line. That limitation is the one I would explain first.
 
 ## What it is / isn't
